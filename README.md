@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NicholasLazaric
+- 👀 I’m interested in Space and machine learning
+- 🌱 I’m currently learning Machine Learning and Data Science
+- 📫 How to reach me nicholaslazaric@gmail.com
